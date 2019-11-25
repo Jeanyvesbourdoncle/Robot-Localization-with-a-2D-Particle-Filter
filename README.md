@@ -14,8 +14,15 @@ At each time step the filter will also get observation and control data.
 
 ### Particle Filter Concept
 
-The particle filter 
+This picture presents the concept of a particle filter :
 
+<p align="center">
+<img src="./Particle_filter_Pipeline.png" width="49%"  style="border:none;">
+</p>
+
+#### Step 1 
+#### Step 2
+#### Step 3
 
 
 #### Running the Code
