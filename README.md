@@ -1,16 +1,21 @@
-### Robot Localization
+## Robot Localization with a particle filter
 The target is to implement a 2 dimensional particle filter in C++. 
 
 
-#### Project Introduction
-A robot has been kidnapped and transported to a new location! 
-Luckily it has :
+### Project Introduction
+A robot has been transported to a new location.
+The data input informations are :
 - a map of this location,
 - a (noisy) GPS estimate of its initial location, 
 - a lots of (noisy) sensor and control data.
 
 The particle filter will be given a map and some initial localization information (analogous to what a GPS would provide). 
 At each time step the filter will also get observation and control data.
+
+### Particle Filter Concept
+
+The particle filter 
+
 
 
 #### Running the Code
