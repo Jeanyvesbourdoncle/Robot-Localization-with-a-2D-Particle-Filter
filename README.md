@@ -18,7 +18,7 @@ At each time step the filter will also get observation and control data.
 This picture presents the concept of a particle filter :
 
 <p align="center">
-<img src="./Particle_filter_Pipeline.png" width="49%"  style="border:none;">
+<img src="./Particle_Filter_Overview.png" width="49%"  style="border:none;">
 </p>
 
 #### Step 1 : Initialization Step 
