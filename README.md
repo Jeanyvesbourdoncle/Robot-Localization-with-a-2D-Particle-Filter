@@ -69,7 +69,7 @@ Tips for setting up your environment can be found [here](https://classroom.udaci
 The program main.cpp has already been filled out.
 Here is the main protocol that main.cpp uses for uWebSocketIO in communicating with the simulator.
 
-##### INPUT: values provided by the simulator to the c++ program
+#### INPUT: values provided by the simulator to the C++ program
 // sense noisy position data from the simulator
 
 ["sense_x"]
@@ -92,7 +92,7 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 ["sense_observations_y"]
 
 
-#### OUTPUT: values provided by the c++ program to the simulator
+#### OUTPUT: values provided by the C++ program to the simulator
 // best particle values used for calculating the error evaluation
 
 ["best_particle_x"]
