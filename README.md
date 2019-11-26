@@ -17,8 +17,9 @@ At each time step the filter will also get observation and control data.
 
 This picture presents the concept of a particle filter :
 <p align="center">
-<img src="./Particle_Filter_Overview.png" width="100%"  style="border:none;">
+<img src="./Particle_Filter_Overview.png" width="100%">
 </p>
+
 #### Step 1 : Initialization Step 
 - Set the number of particles
 - Initialization of all particles to first position (based on estimates x,y,theta, and their uncertainties from GPS)
