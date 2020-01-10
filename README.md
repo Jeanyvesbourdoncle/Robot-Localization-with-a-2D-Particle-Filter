@@ -1,6 +1,6 @@
 ## Robot Localization with a particle filter
 The target is to implement a 2 dimensional particle filter in C++. 
-
+#### Dynamic visualization of the results of the particle filter (localization) with the simulator [here](https://github.com/Jeanyvesbourdoncle/Robot-Localization-with-a-2D-Particle-Filter/blob/master/final_recording.mp4)
 ---------------------------------------------------------------------------
 ### Project Introduction
 A robot has been transported to a new location.
